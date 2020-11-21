@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-//import 'package:url_launcher/url_launcher.dart';
 import 'package:web_scraper/web_scraper.dart';
 
 void main() => runApp(WebScraperApp());
